@@ -60,7 +60,7 @@ class ChartingState extends MusicBeatState
 		'Alt Animation',
 		'Hey!',
 		'Markuv',
-        'Cupcake' 
+        'Cupcake', 
 		'Hurt Note',
 		'GF Sing',
 		'No Animation'
